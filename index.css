@@ -6,6 +6,7 @@
             height: 100%;
            
            
+            
          }
       
     header {
@@ -51,6 +52,8 @@
         display: block;
         font-family: 'Lucida Grande';
         font-size: 30pt;
+        background-image: url(esayde1.jpg);
+           
         
     
     }
